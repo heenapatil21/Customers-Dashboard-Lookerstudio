@@ -23,7 +23,7 @@ A quick view of customer data to help you make data-driven decisions! This dashb
 * Top Cities 🏙️: Cities with the most customers.
 * Categories 📂: Product preferences across Office Supplies, Furniture, and Tech
 
-  # Charts
+  #  📊 Charts
 
 1. Customer by Region 🌍
 
